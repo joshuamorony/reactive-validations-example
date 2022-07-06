@@ -1,0 +1,7 @@
+{
+  "name": "sanity-check",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
